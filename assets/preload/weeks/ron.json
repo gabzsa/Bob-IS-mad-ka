@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "bob-ouslaught",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ron",
+			"icon_ron",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"Trouble",
+			"icon_bob-corrupted",
+			[
+				55,
+				55,
+				53
+			]
+		],
+		[
+			"Onslaught",
+			"icon_bob-ouslaught",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bob Ouslaught"
+}

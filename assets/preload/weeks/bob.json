@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Sunshine",
+			"icon_bob",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Withered",
+			"icon_bob-mad",
+			[
+				175,
+				175,
+				173
+			]
+		],
+		[
+			"run",
+			"icon_bob-dark",
+			[
+				20,
+				20,
+				33
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "Bob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
