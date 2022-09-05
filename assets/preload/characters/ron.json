@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				91,
-				-20
+				129,
+				0
 			],
 			"indices": [],
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				76,
-				-111
+				0,
+				-90
 			],
 			"indices": [],
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				61,
-				31
+				0,
+				59
 			],
 			"indices": [],
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				-31
+				-173,
+				-13
 			],
 			"indices": [],
 			"fps": 24,
@@ -57,28 +57,28 @@
 		},
 		{
 			"offsets": [
-				89,
-				-21
+				57,
+				0
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "ugh",
+			"anim": "Ugh",
 			"loop": false,
 			"name": "Ugh"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Tankman",
+	"image": "characters/Ron",
 	"position": [
 		0,
-		290
+		280
 	],
-	"healthicon": "tankman",
+	"healthicon": "icon_ron",
 	"flip_x": false,
 	"healthbar_colors": [
-		225,
-		225,
-		225
+		255,
+		216,
+		0
 	],
 	"camera_position": [
 		0,
