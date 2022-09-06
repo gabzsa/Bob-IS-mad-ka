@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "ron_street",
+		"player1": "bf",
+		"player2": "little-man",
+		"player3": null,
+		"events": [
+			[
+				311542.750929368,
+				[
+					[
+						"Change Character",
+						"1",
+						"Pizza-Man"
+					]
+				]
+			],
+			[
+				334070.63197026,
+				[
+					[
+						"Change Character",
+						"1",
+						"little-man"
+					]
+				]
+			],
+			[
+				411301.115241633,
+				[
+					[
+						"Change Character",
+						"1",
+						"tankman"
+					]
+				]
+			],
+			[
+				417156.133828994,
+				[
+					[
+						"Play Animation",
+						"ugh",
+						"tankman"
+					]
+				]
+			],
+			[
+				424907.063197023,
+				[
+					[
+						"Image Flash",
+						"spotifyad",
+						"28.21"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 269,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "little-man"
+	}
+}
