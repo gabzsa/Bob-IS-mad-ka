@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "ron_street",
+		"player1": "bf",
+		"player2": "ron",
+		"player3": null,
+		"events": [
+			[
+				657.352941176471,
+				[
+					[
+						"Image Flash",
+						"longbob",
+						"0.6"
+					]
+				]
+			],
+			[
+				2294.11764705882,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				2382.35294117647,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				2470.58823529412,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				40323.5294117647,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				40411.7647058823,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				41911.7647058823,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				75794.1176470587,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				75882.3529411764,
+				[
+					[
+						"Add Camera Zoom",
+						"0.7",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ron"
+	}
+}
